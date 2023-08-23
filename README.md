@@ -3,8 +3,11 @@
 - Nombre : Carlos Castaneda Ramirez
 - Correo : castr@uaz.edu.mx
 
-Actividades del curso
-- activivdad 1
-- actividad 2
-- actividad 3
-- actividad 4
+## Actividad 1
+
+- p01-hola-mundo
+- p02-area-circulo
+- p03-area-triangulo
+- p04-paga-trabajador
+
+ 
